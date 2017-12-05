@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Call Admin [Ingame Chat > Discord Channel]" 
+	"version"			"0.1"
+	"author_name"		"PoseidonRias"
+	"author_url"		"http://steamcommunity.com/profiles/76561198211014256/"
+	"info"				"By default '!calladmin' is the command, but can be easily changed!"
+}
+
+
